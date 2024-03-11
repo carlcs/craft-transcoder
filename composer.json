@@ -29,8 +29,8 @@
     }
   ],
   "require": {
-    "craftcms/cms": "^4.0.0",
-    "nystudio107/craft-plugin-vite": "^4.0.0",
+    "craftcms/cms": "^5.0.0-beta.1",
+    "nystudio107/craft-plugin-vite": "^5.0.0-beta.1",
     "mikehaertl/php-shellcommand": "~1.2"
   },
   "config": {
